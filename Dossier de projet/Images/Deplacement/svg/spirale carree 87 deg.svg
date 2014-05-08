@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with FreeCAD (http://free-cad.sourceforge.net) -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+     version="1.1" baseProfile="full"
+     width="277" height="190">
+<g>
+</g>
+<path
+   d="M 10,10 L 267,10 L 267,180 L 10,180 L 10,10 z "
+   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<g>
+<line x1="132.483" y1="120.406" x2="139.359" y2="110.942" stroke="#ffffff" stroke-width="1px" />
+<line x1="108.737" y1="141.13" x2="120.897" y2="83.9186" stroke="#ffffff" stroke-width="1px" />
+<line x1="95.9536" y1="154.79" x2="181.736" y2="154.79" stroke="#ffffff" stroke-width="1px" />
+<line x1="120.897" y1="83.9186" x2="166.093" y2="96.0293" stroke="#ffffff" stroke-width="1px" />
+<line x1="181.736" y1="69.0048" x2="95.9536" y2="69.0048" stroke="#ffffff" stroke-width="1px" />
+<line x1="166.093" y1="96.0293" x2="151.634" y2="140.531" stroke="#ffffff" stroke-width="1px" />
+<line x1="103.752" y1="146.991" x2="103.752" y2="76.8035" stroke="#ffffff" stroke-width="1px" />
+<line x1="118.872" y1="127.954" x2="151.634" y2="140.531" stroke="#ffffff" stroke-width="1px" />
+<line x1="173.841" y1="80.4768" x2="166.505" y2="150.28" stroke="#ffffff" stroke-width="1px" />
+<line x1="118.872" y1="127.954" x2="133.146" y2="95.8945" stroke="#ffffff" stroke-width="1px" />
+<line x1="103.752" y1="76.8035" x2="173.841" y2="80.4768" stroke="#ffffff" stroke-width="1px" />
+<line x1="166.505" y1="150.28" x2="108.737" y2="141.13" stroke="#ffffff" stroke-width="1px" />
+<line x1="95.9536" y1="69.0048" x2="95.9536" y2="154.79" stroke="#ffffff" stroke-width="1px" />
+<line x1="133.146" y1="95.8945" x2="153.991" y2="106.516" stroke="#ffffff" stroke-width="1px" />
+<line x1="142.294" y1="126.777" x2="153.991" y2="106.516" stroke="#ffffff" stroke-width="1px" />
+<line x1="132.483" y1="120.406" x2="142.294" y2="126.777" stroke="#ffffff" stroke-width="1px" />
+<line x1="181.736" y1="154.79" x2="181.736" y2="69.0048" stroke="#ffffff" stroke-width="1px" />
+</g>
+</svg>
